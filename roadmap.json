@@ -1,0 +1,340 @@
+{
+  "title": "My AI Engineer Journey",
+  "description": "Full-Stack Developer → AI Engineer",
+  "stages": [
+    {
+      "id": "software-engineering",
+      "title": "Software Engineering Foundation",
+      "status": "completed",
+      "progress": 100,
+      "skills": [
+        {
+          "id": "typescript",
+          "title": "TypeScript and backend patterns",
+          "status": "completed",
+          "description": "Build reliable application layers with strong typing and clear interfaces.",
+          "evidence": {
+            "understood": true,
+            "implemented": true,
+            "explained": true,
+            "production": true
+          },
+          "resources": [
+            {
+              "type": "blog",
+              "title": "TypeScript patterns",
+              "url": "/blog/typescript-patterns"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Portfolio app",
+              "url": "/"
+            }
+          ]
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Twelve-Factor App",
+          "url": "https://12factor.net/"
+        }
+      ],
+      "blogs": [
+        {
+          "title": "Building practical developer tools",
+          "url": "/blog"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Next.js",
+          "url": "https://nextjs.org/"
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal app",
+          "url": "/"
+        }
+      ],
+      "githubUrl": "https://github.com/krishnateja",
+      "notes": "Strong engineering habits are the base for each AI project.",
+      "nextStep": "Keep shipping reliable software that is easy to reason about."
+    },
+    {
+      "id": "llm-engineering",
+      "title": "LLM Engineering",
+      "status": "completed",
+      "progress": 85,
+      "skills": [
+        {
+          "id": "prompting",
+          "title": "Prompt design",
+          "status": "completed",
+          "description": "Design prompts that produce reliable outputs with clear constraints.",
+          "evidence": {
+            "understood": true,
+            "implemented": true,
+            "explained": true,
+            "production": false
+          },
+          "resources": [
+            {
+              "type": "blog",
+              "title": "AI prompt workflows",
+              "url": "/prompts"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Prompt playground",
+              "url": "/agents"
+            }
+          ]
+        }
+      ],
+      "resources": [
+        {
+          "title": "OpenAI API docs",
+          "url": "https://platform.openai.com/docs"
+        }
+      ],
+      "blogs": [],
+      "tools": [],
+      "projects": [],
+      "githubUrl": "https://github.com/krishnateja",
+      "notes": "Prompting is not guessing; it's structured communication with constraints.",
+      "nextStep": "Turn prompt experiments into repeatable product behavior."
+    },
+    {
+      "id": "rag",
+      "title": "RAG Engineering",
+      "status": "in-progress",
+      "progress": 80,
+      "skills": [
+        {
+          "id": "embeddings",
+          "title": "Embeddings",
+          "status": "completed",
+          "description": "Understand how text is represented as vectors.",
+          "evidence": {
+            "understood": true,
+            "implemented": true,
+            "explained": true,
+            "production": false
+          },
+          "resources": [
+            {
+              "type": "blog",
+              "title": "Understanding Embeddings",
+              "url": "/blog/embeddings"
+            }
+          ],
+          "projects": [
+            {
+              "title": "RAG Playground",
+              "url": "/tools/rag"
+            }
+          ]
+        },
+        {
+          "id": "retrieval",
+          "title": "Retrieval quality",
+          "status": "in-progress",
+          "description": "Tune retrieval to surface the right sources for real questions.",
+          "evidence": {
+            "understood": true,
+            "implemented": true,
+            "explained": false,
+            "production": false
+          },
+          "resources": [
+            {
+              "type": "tool",
+              "title": "RAG Tool Playground",
+              "url": "/tools/rag"
+            }
+          ],
+          "projects": []
+        }
+      ],
+      "resources": [
+        {
+          "title": "RAG best practices",
+          "url": "https://platform.openai.com/docs/guides/retrieval"
+        }
+      ],
+      "blogs": [
+        {
+          "title": "RAG Playground: how it works",
+          "url": "/blog/rag-playground"
+        }
+      ],
+      "tools": [
+        {
+          "title": "RAG Tool Playground",
+          "url": "/tools/rag"
+        }
+      ],
+      "projects": [
+        {
+          "title": "Build a searchable personal knowledge base",
+          "url": "/tools/rag"
+        }
+      ],
+      "githubUrl": "https://github.com/krishnateja",
+      "notes": "Current focus: move from demos to retrieval measured on real-world queries.",
+      "nextStep": "Create a small evaluation set and tune retrieval against it."
+    },
+    {
+      "id": "agents",
+      "title": "AI Agents",
+      "status": "in-progress",
+      "progress": 45,
+      "skills": [
+        {
+          "id": "tool-calling",
+          "title": "Typed tool calling",
+          "status": "completed",
+          "description": "Give the model structured tools with explicit intent and boundaries.",
+          "evidence": {
+            "understood": true,
+            "implemented": true,
+            "explained": true,
+            "production": false
+          },
+          "resources": [],
+          "projects": []
+        }
+      ],
+      "resources": [],
+      "blogs": [],
+      "tools": [],
+      "projects": [],
+      "githubUrl": "https://github.com/krishnateja",
+      "notes": "Agents work best when boundaries are clear and side effects are visible.",
+      "nextStep": "Build one tightly scoped workflow with observable tool calls."
+    },
+    {
+      "id": "mcp",
+      "title": "MCP & Tool Ecosystem",
+      "status": "not-started",
+      "progress": 20,
+      "skills": [
+        {
+          "id": "mcp-basics",
+          "title": "MCP basics",
+          "status": "not-started",
+          "description": "Learn the client/server model and tool contracts.",
+          "evidence": {
+            "understood": false,
+            "implemented": false,
+            "explained": false,
+            "production": false
+          },
+          "resources": [],
+          "projects": []
+        }
+      ],
+      "resources": [
+        {
+          "title": "Model Context Protocol",
+          "url": "https://modelcontextprotocol.io/"
+        }
+      ],
+      "blogs": [],
+      "tools": [],
+      "projects": [],
+      "githubUrl": "https://github.com/krishnateja",
+      "notes": "Start with read-only tools before adding any write access.",
+      "nextStep": "Build one tiny MCP server around a personal data source."
+    },
+    {
+      "id": "evaluation",
+      "title": "AI Evaluation",
+      "status": "not-started",
+      "progress": 10,
+      "skills": [
+        {
+          "id": "eval-sets",
+          "title": "Create eval sets",
+          "status": "not-started",
+          "description": "Measure quality with representative inputs and pass/fail criteria.",
+          "evidence": {
+            "understood": false,
+            "implemented": false,
+            "explained": false,
+            "production": false
+          },
+          "resources": [],
+          "projects": []
+        }
+      ],
+      "resources": [],
+      "blogs": [],
+      "tools": [],
+      "projects": [],
+      "githubUrl": "https://github.com/krishnateja",
+      "notes": "A product improves when it can be measured."
+    },
+    {
+      "id": "production-ai",
+      "title": "Production AI",
+      "status": "not-started",
+      "progress": 0,
+      "skills": [
+        {
+          "id": "observability",
+          "title": "Observability",
+          "status": "not-started",
+          "description": "Trace prompts, retrieval, and latency with clear signals.",
+          "evidence": {
+            "understood": false,
+            "implemented": false,
+            "explained": false,
+            "production": false
+          },
+          "resources": [],
+          "projects": []
+        }
+      ],
+      "resources": [],
+      "blogs": [],
+      "tools": [],
+      "projects": [],
+      "githubUrl": "https://github.com/krishnateja",
+      "notes": "Production AI means designing for failure and measurement from day one.",
+      "nextStep": "Instrument one end-to-end flow with latency and token telemetry."
+    },
+    {
+      "id": "system-design",
+      "title": "AI System Design",
+      "status": "not-started",
+      "progress": 0,
+      "skills": [
+        {
+          "id": "architecture",
+          "title": "Architecture trade-offs",
+          "status": "not-started",
+          "description": "Design complete AI systems with clear trade-offs and constraints.",
+          "evidence": {
+            "understood": false,
+            "implemented": false,
+            "explained": false,
+            "production": false
+          },
+          "resources": [],
+          "projects": []
+        }
+      ],
+      "resources": [],
+      "blogs": [],
+      "tools": [],
+      "projects": [],
+      "githubUrl": "https://github.com/krishnateja",
+      "notes": "The goal is steady judgment under real system constraints.",
+      "nextStep": "Design an end-to-end AI system for a personal knowledge assistant."
+    }
+  ]
+}
