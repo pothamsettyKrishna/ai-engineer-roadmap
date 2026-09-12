@@ -1,5 +1,6 @@
+```json
 {
-  "title": "My AI Engineer Journey",
+  "title": "AI Engineer Journey",
   "description": "Full-Stack Developer → AI Engineer",
 
   "stages": [
@@ -8,54 +9,302 @@
       "title": "Software Engineering Foundation",
       "skills": [
         {
-          "id": "typescript-backend",
-          "title": "TypeScript & Backend Engineering",
-          "evidence": [
-            {
-              "type": "github",
-              "title": "Portfolio Application",
-              "url": "https://github.com/krishnateja"
-            },
-            {
-              "type": "project",
-              "title": "Personal Application",
-              "url": "/"
-            }
-          ]
+          "id": "programming-fundamentals",
+          "title": "Programming Fundamentals",
+          "evidence": []
+        },
+        {
+          "id": "data-structures",
+          "title": "Data Structures & Algorithms",
+          "evidence": []
+        },
+        {
+          "id": "typescript-javascript",
+          "title": "TypeScript & JavaScript",
+          "evidence": []
+        },
+        {
+          "id": "backend-engineering",
+          "title": "Backend Engineering",
+          "evidence": []
+        },
+        {
+          "id": "api-design",
+          "title": "API Design",
+          "evidence": []
+        },
+        {
+          "id": "databases",
+          "title": "Database Design & SQL",
+          "evidence": []
+        },
+        {
+          "id": "distributed-systems",
+          "title": "Distributed Systems Fundamentals",
+          "evidence": []
+        },
+        {
+          "id": "async-processing",
+          "title": "Asynchronous Processing & Queues",
+          "evidence": []
+        },
+        {
+          "id": "testing",
+          "title": "Testing & Test Automation",
+          "evidence": []
+        },
+        {
+          "id": "git",
+          "title": "Git & Version Control",
+          "evidence": []
+        },
+        {
+          "id": "docker",
+          "title": "Docker & Containers",
+          "evidence": []
+        },
+        {
+          "id": "cloud-fundamentals",
+          "title": "Cloud Fundamentals",
+          "evidence": []
+        }
+      ]
+    },
+
+    {
+      "id": "python-ai",
+      "title": "Python for AI Engineering",
+      "skills": [
+        {
+          "id": "python-fundamentals",
+          "title": "Python Fundamentals",
+          "evidence": []
+        },
+        {
+          "id": "python-typing",
+          "title": "Python Typing & Type Safety",
+          "evidence": []
+        },
+        {
+          "id": "python-packaging",
+          "title": "Python Packaging & Dependency Management",
+          "evidence": []
+        },
+        {
+          "id": "python-testing",
+          "title": "Python Testing",
+          "evidence": []
+        },
+        {
+          "id": "numpy",
+          "title": "NumPy",
+          "evidence": []
+        },
+        {
+          "id": "pandas",
+          "title": "Pandas & Data Manipulation",
+          "evidence": []
+        },
+        {
+          "id": "async-python",
+          "title": "Async Python",
+          "evidence": []
+        },
+        {
+          "id": "python-ai-apis",
+          "title": "Python AI API Integration",
+          "evidence": []
+        }
+      ]
+    },
+
+    {
+      "id": "ml-fundamentals",
+      "title": "AI & Machine Learning Fundamentals",
+      "skills": [
+        {
+          "id": "linear-algebra",
+          "title": "Linear Algebra for ML",
+          "evidence": []
+        },
+        {
+          "id": "probability-statistics",
+          "title": "Probability & Statistics",
+          "evidence": []
+        },
+        {
+          "id": "calculus-ml",
+          "title": "Calculus Fundamentals for ML",
+          "evidence": []
+        },
+        {
+          "id": "ml-concepts",
+          "title": "Machine Learning Fundamentals",
+          "evidence": []
+        },
+        {
+          "id": "supervised-learning",
+          "title": "Supervised Learning",
+          "evidence": []
+        },
+        {
+          "id": "unsupervised-learning",
+          "title": "Unsupervised Learning",
+          "evidence": []
+        },
+        {
+          "id": "feature-engineering",
+          "title": "Feature Engineering",
+          "evidence": []
+        },
+        {
+          "id": "model-training",
+          "title": "Model Training & Optimization",
+          "evidence": []
+        },
+        {
+          "id": "overfitting",
+          "title": "Overfitting & Regularization",
+          "evidence": []
+        },
+        {
+          "id": "ml-evaluation",
+          "title": "Machine Learning Evaluation Metrics",
+          "evidence": []
+        },
+        {
+          "id": "scikit-learn",
+          "title": "Scikit-learn",
+          "evidence": []
+        }
+      ]
+    },
+
+    {
+      "id": "llm-fundamentals",
+      "title": "LLM Fundamentals",
+      "skills": [
+        {
+          "id": "neural-networks",
+          "title": "Neural Network Fundamentals",
+          "evidence": []
+        },
+        {
+          "id": "deep-learning",
+          "title": "Deep Learning Fundamentals",
+          "evidence": []
+        },
+        {
+          "id": "transformers",
+          "title": "Transformer Architecture",
+          "evidence": []
+        },
+        {
+          "id": "attention",
+          "title": "Attention Mechanism",
+          "evidence": []
+        },
+        {
+          "id": "tokenization",
+          "title": "Tokenization",
+          "evidence": []
+        },
+        {
+          "id": "embeddings-concept",
+          "title": "Embeddings",
+          "evidence": []
+        },
+        {
+          "id": "pretraining",
+          "title": "LLM Pre-training Concepts",
+          "evidence": []
+        },
+        {
+          "id": "inference",
+          "title": "LLM Inference Fundamentals",
+          "evidence": []
+        },
+        {
+          "id": "context-window",
+          "title": "Context Windows",
+          "evidence": []
+        },
+        {
+          "id": "sampling",
+          "title": "Sampling & Decoding",
+          "evidence": []
+        },
+        {
+          "id": "model-capabilities",
+          "title": "LLM Capabilities & Limitations",
+          "evidence": []
         }
       ]
     },
 
     {
       "id": "llm-engineering",
-      "title": "LLM Engineering",
+      "title": "LLM Application Engineering",
       "skills": [
+        {
+          "id": "llm-api",
+          "title": "LLM API Integration",
+          "evidence": []
+        },
         {
           "id": "prompt-engineering",
           "title": "Prompt Engineering",
-          "evidence": [
-            {
-              "type": "project",
-              "title": "Prompt Playground",
-              "url": "/agents"
-            },
-            {
-              "type": "blog",
-              "title": "AI Prompt Workflows",
-              "url": "/prompts"
-            }
-          ]
+          "evidence": []
         },
         {
-          "id": "llm-api-integration",
-          "title": "LLM API Integration",
-          "evidence": [
-            {
-              "type": "github",
-              "title": "AI Projects",
-              "url": "https://github.com/krishnateja"
-            }
-          ]
+          "id": "structured-output",
+          "title": "Structured Outputs",
+          "evidence": []
+        },
+        {
+          "id": "function-calling",
+          "title": "Function & Tool Calling",
+          "evidence": []
+        },
+        {
+          "id": "conversation-state",
+          "title": "Conversation & State Management",
+          "evidence": []
+        },
+        {
+          "id": "context-management",
+          "title": "Context Management",
+          "evidence": []
+        },
+        {
+          "id": "streaming",
+          "title": "Streaming LLM Responses",
+          "evidence": []
+        },
+        {
+          "id": "multimodal",
+          "title": "Multimodal AI",
+          "evidence": []
+        },
+        {
+          "id": "model-selection",
+          "title": "Model Selection",
+          "evidence": []
+        },
+        {
+          "id": "llm-cost",
+          "title": "LLM Cost Optimization",
+          "evidence": []
+        },
+        {
+          "id": "llm-routing",
+          "title": "Model Routing & Fallbacks",
+          "evidence": []
+        },
+        {
+          "id": "prompt-versioning",
+          "title": "Prompt Versioning",
+          "evidence": []
         }
       ]
     },
@@ -65,40 +314,78 @@
       "title": "RAG Engineering",
       "skills": [
         {
-          "id": "embeddings",
-          "title": "Embeddings",
-          "evidence": [
-            {
-              "type": "project",
-              "title": "RAG Playground",
-              "url": "/tools/rag"
-            },
-            {
-              "type": "blog",
-              "title": "Understanding Embeddings",
-              "url": "/blog/embeddings"
-            }
-          ]
+          "id": "embedding-models",
+          "title": "Embedding Models",
+          "evidence": []
         },
         {
-          "id": "retrieval",
-          "title": "Retrieval",
-          "evidence": [
-            {
-              "type": "project",
-              "title": "RAG Playground",
-              "url": "/tools/rag"
-            },
-            {
-              "type": "blog",
-              "title": "I Built a RAG Playground to Understand How RAG Actually Works",
-              "url": "/blog/rag-playground"
-            }
-          ]
+          "id": "document-ingestion",
+          "title": "Document Ingestion",
+          "evidence": []
         },
         {
-          "id": "rag-evaluation",
-          "title": "RAG Evaluation",
+          "id": "document-parsing",
+          "title": "Document Parsing",
+          "evidence": []
+        },
+        {
+          "id": "chunking",
+          "title": "Chunking Strategies",
+          "evidence": []
+        },
+        {
+          "id": "metadata",
+          "title": "Metadata & Document Enrichment",
+          "evidence": []
+        },
+        {
+          "id": "vector-databases",
+          "title": "Vector Databases",
+          "evidence": []
+        },
+        {
+          "id": "vector-search",
+          "title": "Vector Similarity Search",
+          "evidence": []
+        },
+        {
+          "id": "keyword-search",
+          "title": "Keyword & Lexical Search",
+          "evidence": []
+        },
+        {
+          "id": "hybrid-search",
+          "title": "Hybrid Search",
+          "evidence": []
+        },
+        {
+          "id": "reranking",
+          "title": "Reranking",
+          "evidence": []
+        },
+        {
+          "id": "query-rewriting",
+          "title": "Query Rewriting",
+          "evidence": []
+        },
+        {
+          "id": "retrieval-strategies",
+          "title": "Retrieval Strategies",
+          "evidence": []
+        },
+        {
+          "id": "context-relevance",
+          "title": "Context Relevance & Grounding",
+          "evidence": []
+        },
+        {
+          "id": "rag-architecture",
+          "title": "RAG Architecture",
+          "evidence": []
+        },
+        {
+          "id": "advanced-rag",
+          "title": "Advanced RAG Patterns",
           "evidence": []
         }
       ]
@@ -109,37 +396,69 @@
       "title": "AI Agents",
       "skills": [
         {
-          "id": "tool-calling",
-          "title": "Tool Calling",
-          "evidence": [
-            {
-              "type": "project",
-              "title": "AI Agent Workflow",
-              "url": "/agents"
-            }
-          ]
+          "id": "agent-concepts",
+          "title": "Agent Fundamentals",
+          "evidence": []
         },
         {
-          "id": "agent-workflows",
-          "title": "Agent Workflows",
-          "evidence": [
-            {
-              "type": "project",
-              "title": "Coach Smash",
-              "url": "/agents"
-            }
-          ]
+          "id": "tool-use",
+          "title": "Tool Use",
+          "evidence": []
+        },
+        {
+          "id": "tool-calling",
+          "title": "Typed Tool Calling",
+          "evidence": []
+        },
+        {
+          "id": "agent-state",
+          "title": "Agent State Management",
+          "evidence": []
+        },
+        {
+          "id": "planning",
+          "title": "Agent Planning",
+          "evidence": []
+        },
+        {
+          "id": "reasoning-workflows",
+          "title": "Reasoning Workflows",
+          "evidence": []
+        },
+        {
+          "id": "multi-step-agents",
+          "title": "Multi-step Agent Workflows",
+          "evidence": []
+        },
+        {
+          "id": "agent-memory",
+          "title": "Agent Memory",
+          "evidence": []
+        },
+        {
+          "id": "multi-agent",
+          "title": "Multi-Agent Systems",
+          "evidence": []
+        },
+        {
+          "id": "agent-orchestration",
+          "title": "Agent Orchestration",
+          "evidence": []
+        },
+        {
+          "id": "human-in-loop",
+          "title": "Human-in-the-loop Workflows",
+          "evidence": []
         },
         {
           "id": "agent-guardrails",
           "title": "Agent Guardrails",
-          "evidence": [
-            {
-              "type": "project",
-              "title": "Coach Smash",
-              "url": "/agents"
-            }
-          ]
+          "evidence": []
+        },
+        {
+          "id": "agent-failure-handling",
+          "title": "Agent Failure Handling",
+          "evidence": []
         }
       ]
     },
@@ -149,18 +468,48 @@
       "title": "MCP & Tool Ecosystem",
       "skills": [
         {
-          "id": "mcp-basics",
+          "id": "mcp-concepts",
           "title": "MCP Fundamentals",
           "evidence": []
         },
         {
-          "id": "mcp-server",
-          "title": "Build an MCP Server",
+          "id": "mcp-client",
+          "title": "MCP Client Architecture",
           "evidence": []
         },
         {
-          "id": "mcp-integration",
-          "title": "MCP Client Integration",
+          "id": "mcp-server",
+          "title": "MCP Server Development",
+          "evidence": []
+        },
+        {
+          "id": "mcp-tools",
+          "title": "MCP Tools",
+          "evidence": []
+        },
+        {
+          "id": "mcp-resources",
+          "title": "MCP Resources",
+          "evidence": []
+        },
+        {
+          "id": "mcp-prompts",
+          "title": "MCP Prompts",
+          "evidence": []
+        },
+        {
+          "id": "mcp-auth",
+          "title": "MCP Authentication & Authorization",
+          "evidence": []
+        },
+        {
+          "id": "mcp-security",
+          "title": "MCP Security",
+          "evidence": []
+        },
+        {
+          "id": "mcp-production",
+          "title": "Production MCP Integrations",
           "evidence": []
         }
       ]
@@ -171,18 +520,53 @@
       "title": "AI Evaluation",
       "skills": [
         {
+          "id": "evaluation-fundamentals",
+          "title": "AI Evaluation Fundamentals",
+          "evidence": []
+        },
+        {
           "id": "eval-datasets",
-          "title": "Evaluation Datasets",
+          "title": "Evaluation Dataset Design",
           "evidence": []
         },
         {
-          "id": "retrieval-evaluation",
-          "title": "Retrieval Evaluation",
+          "id": "golden-datasets",
+          "title": "Golden Datasets",
           "evidence": []
         },
         {
-          "id": "llm-evaluation",
-          "title": "LLM Output Evaluation",
+          "id": "rag-evaluation",
+          "title": "RAG Evaluation",
+          "evidence": []
+        },
+        {
+          "id": "retrieval-metrics",
+          "title": "Retrieval Metrics",
+          "evidence": []
+        },
+        {
+          "id": "generation-evaluation",
+          "title": "LLM Generation Evaluation",
+          "evidence": []
+        },
+        {
+          "id": "llm-as-judge",
+          "title": "LLM-as-a-Judge",
+          "evidence": []
+        },
+        {
+          "id": "human-evaluation",
+          "title": "Human Evaluation",
+          "evidence": []
+        },
+        {
+          "id": "regression-testing",
+          "title": "LLM Regression Testing",
+          "evidence": []
+        },
+        {
+          "id": "eval-experimentation",
+          "title": "Evaluation-driven Experimentation",
           "evidence": []
         }
       ]
@@ -190,21 +574,113 @@
 
     {
       "id": "production-ai",
-      "title": "Production AI",
+      "title": "Production AI & LLMOps",
       "skills": [
+        {
+          "id": "ai-deployment",
+          "title": "AI Application Deployment",
+          "evidence": []
+        },
         {
           "id": "ai-observability",
           "title": "AI Observability",
           "evidence": []
         },
         {
-          "id": "latency-cost",
-          "title": "Latency & Cost Optimization",
+          "id": "llm-tracing",
+          "title": "LLM Tracing",
+          "evidence": []
+        },
+        {
+          "id": "token-telemetry",
+          "title": "Token & Usage Telemetry",
+          "evidence": []
+        },
+        {
+          "id": "latency-optimization",
+          "title": "Latency Optimization",
+          "evidence": []
+        },
+        {
+          "id": "cost-optimization",
+          "title": "AI Cost Optimization",
+          "evidence": []
+        },
+        {
+          "id": "caching",
+          "title": "AI Response & Semantic Caching",
+          "evidence": []
+        },
+        {
+          "id": "rate-limiting",
+          "title": "Rate Limiting & Quotas",
           "evidence": []
         },
         {
           "id": "reliability",
-          "title": "AI Reliability & Failure Handling",
+          "title": "AI Reliability Engineering",
+          "evidence": []
+        },
+        {
+          "id": "fallbacks",
+          "title": "Model Fallbacks & Resilience",
+          "evidence": []
+        },
+        {
+          "id": "scaling",
+          "title": "Scaling AI Applications",
+          "evidence": []
+        },
+        {
+          "id": "ai-infrastructure",
+          "title": "AI Infrastructure",
+          "evidence": []
+        }
+      ]
+    },
+
+    {
+      "id": "security",
+      "title": "AI Security & Safety",
+      "skills": [
+        {
+          "id": "prompt-injection",
+          "title": "Prompt Injection",
+          "evidence": []
+        },
+        {
+          "id": "jailbreaks",
+          "title": "Jailbreaks & Adversarial Inputs",
+          "evidence": []
+        },
+        {
+          "id": "data-leakage",
+          "title": "Data Leakage Prevention",
+          "evidence": []
+        },
+        {
+          "id": "output-validation",
+          "title": "Output Validation",
+          "evidence": []
+        },
+        {
+          "id": "tool-security",
+          "title": "Tool & Agent Security",
+          "evidence": []
+        },
+        {
+          "id": "access-control",
+          "title": "AI Access Control",
+          "evidence": []
+        },
+        {
+          "id": "pii-protection",
+          "title": "PII & Sensitive Data Protection",
+          "evidence": []
+        },
+        {
+          "id": "ai-safety",
+          "title": "AI Safety Fundamentals",
           "evidence": []
         }
       ]
@@ -216,20 +692,160 @@
       "skills": [
         {
           "id": "ai-architecture",
-          "title": "AI Architecture",
+          "title": "AI System Architecture",
           "evidence": []
         },
         {
-          "id": "system-tradeoffs",
-          "title": "AI System Trade-offs",
+          "id": "llm-system-design",
+          "title": "LLM System Design",
           "evidence": []
         },
         {
-          "id": "end-to-end-design",
-          "title": "End-to-End AI System Design",
+          "id": "rag-system-design",
+          "title": "RAG System Design",
+          "evidence": []
+        },
+        {
+          "id": "agent-system-design",
+          "title": "Agent System Design",
+          "evidence": []
+        },
+        {
+          "id": "data-flow",
+          "title": "AI Data Flow Design",
+          "evidence": []
+        },
+        {
+          "id": "architecture-tradeoffs",
+          "title": "Architecture Trade-offs",
+          "evidence": []
+        },
+        {
+          "id": "scalability-design",
+          "title": "Scalability & Capacity Planning",
+          "evidence": []
+        },
+        {
+          "id": "reliability-design",
+          "title": "Reliability & Fault Tolerance",
+          "evidence": []
+        },
+        {
+          "id": "cost-architecture",
+          "title": "Cost-aware AI Architecture",
+          "evidence": []
+        },
+        {
+          "id": "ai-system-design-interviews",
+          "title": "AI System Design Interviews",
+          "evidence": []
+        }
+      ]
+    },
+
+    {
+      "id": "advanced-ai",
+      "title": "Advanced AI Engineering",
+      "skills": [
+        {
+          "id": "fine-tuning",
+          "title": "Fine-tuning Fundamentals",
+          "evidence": []
+        },
+        {
+          "id": "instruction-tuning",
+          "title": "Instruction Tuning",
+          "evidence": []
+        },
+        {
+          "id": "peft",
+          "title": "Parameter-efficient Fine-tuning",
+          "evidence": []
+        },
+        {
+          "id": "lora",
+          "title": "LoRA & Adapters",
+          "evidence": []
+        },
+        {
+          "id": "model-evaluation",
+          "title": "Model Evaluation",
+          "evidence": []
+        },
+        {
+          "id": "open-source-models",
+          "title": "Open-source LLMs",
+          "evidence": []
+        },
+        {
+          "id": "local-inference",
+          "title": "Local Model Inference",
+          "evidence": []
+        },
+        {
+          "id": "quantization",
+          "title": "Model Quantization",
+          "evidence": []
+        },
+        {
+          "id": "inference-optimization",
+          "title": "Inference Optimization",
+          "evidence": []
+        },
+        {
+          "id": "gpu-fundamentals",
+          "title": "GPU & AI Compute Fundamentals",
+          "evidence": []
+        }
+      ]
+    },
+
+    {
+      "id": "portfolio",
+      "title": "AI Engineer Portfolio",
+      "skills": [
+        {
+          "id": "ai-project",
+          "title": "Build a Production AI Application",
+          "evidence": []
+        },
+        {
+          "id": "rag-project",
+          "title": "Build a Production RAG Application",
+          "evidence": []
+        },
+        {
+          "id": "agent-project",
+          "title": "Build a Production AI Agent",
+          "evidence": []
+        },
+        {
+          "id": "mcp-project",
+          "title": "Build an MCP Integration",
+          "evidence": []
+        },
+        {
+          "id": "evaluation-project",
+          "title": "Build an AI Evaluation Pipeline",
+          "evidence": []
+        },
+        {
+          "id": "system-design-project",
+          "title": "Design an End-to-End AI System",
+          "evidence": []
+        },
+        {
+          "id": "technical-writing",
+          "title": "Document AI Engineering Work",
+          "evidence": []
+        },
+        {
+          "id": "open-source",
+          "title": "Contribute to AI Open Source",
           "evidence": []
         }
       ]
     }
   ]
 }
+```
