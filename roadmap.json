@@ -1,7 +1,6 @@
 {
   "title": "AI Engineer Journey",
   "description": "Full-Stack Developer → AI Engineer",
-
   "stages": [
     {
       "id": "software-engineering",
@@ -10,7 +9,13 @@
         {
           "id": "programming-fundamentals",
           "title": "Programming Fundamentals",
-          "evidence": []
+          "evidence": [
+            {
+              "type": "github",
+              "title": "New evidence",
+              "url": "https://"
+            }
+          ]
         },
         {
           "id": "data-structures",
@@ -69,7 +74,6 @@
         }
       ]
     },
-
     {
       "id": "python-ai",
       "title": "Python for AI Engineering",
@@ -116,7 +120,6 @@
         }
       ]
     },
-
     {
       "id": "ml-fundamentals",
       "title": "AI & Machine Learning Fundamentals",
@@ -178,7 +181,6 @@
         }
       ]
     },
-
     {
       "id": "llm-fundamentals",
       "title": "LLM Fundamentals",
@@ -240,7 +242,6 @@
         }
       ]
     },
-
     {
       "id": "llm-engineering",
       "title": "LLM Application Engineering",
@@ -307,7 +308,6 @@
         }
       ]
     },
-
     {
       "id": "rag",
       "title": "RAG Engineering",
@@ -389,7 +389,6 @@
         }
       ]
     },
-
     {
       "id": "agents",
       "title": "AI Agents",
@@ -461,7 +460,6 @@
         }
       ]
     },
-
     {
       "id": "mcp",
       "title": "MCP & Tool Ecosystem",
@@ -513,7 +511,6 @@
         }
       ]
     },
-
     {
       "id": "evaluation",
       "title": "AI Evaluation",
@@ -570,7 +567,6 @@
         }
       ]
     },
-
     {
       "id": "production-ai",
       "title": "Production AI & LLMOps",
@@ -637,7 +633,6 @@
         }
       ]
     },
-
     {
       "id": "security",
       "title": "AI Security & Safety",
@@ -684,7 +679,6 @@
         }
       ]
     },
-
     {
       "id": "system-design",
       "title": "AI System Design",
@@ -741,7 +735,6 @@
         }
       ]
     },
-
     {
       "id": "advanced-ai",
       "title": "Advanced AI Engineering",
@@ -798,7 +791,6 @@
         }
       ]
     },
-
     {
       "id": "portfolio",
       "title": "AI Engineer Portfolio",
