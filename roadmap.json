@@ -11,7 +11,7 @@
           "title": "Programming Fundamentals",
           "evidence": [
             {
-              "type": "github",
+              "type": "learning-notes",
               "title": "My coupons project",
               "url": "https://github.com/pothamsettyKrishna/myCupons-poc"
             }
